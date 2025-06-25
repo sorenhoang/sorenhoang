@@ -20,9 +20,9 @@ I’m a software engineer passionate about system design, performance, and scala
 #### 🧰 Backend & Frameworks
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -58,7 +58,7 @@ I’m a software engineer passionate about system design, performance, and scala
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sorenhoang)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hoangducbinh)
 - 📧 Email: *hoangducbinh@dev.com*
 - 🌐 Blog/Portfolio: _Coming soon_
 
