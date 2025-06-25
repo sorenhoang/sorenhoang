@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Soren Hoang</h1>
 <p align="center">
-  <b>Software Engineer</b> | Passionate about <b>Technology</b> and <b>Distributed Systems</b>
+  <b>Software Engineer</b> | Passionate about <b>Technology</b>, <b>Software Systems</b>, and designing <b>scalable, reliable, and maintainable architecture</b>
 </p>
 
 ---
@@ -17,20 +17,12 @@ I’m a software engineer passionate about system design, performance, and scala
 
 ### 🛠️ Tech Stack
 
-#### ⚙️ Core Languages & Runtime
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
 #### 🧰 Backend & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-Green?style=flat&logo=go&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 #### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -67,7 +59,7 @@ I’m a software engineer passionate about system design, performance, and scala
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sorenhoang)
-- 📧 Email: *yourname@example.com*
+- 📧 Email: *hoangducbinh@dev.com*
 - 🌐 Blog/Portfolio: _Coming soon_
 
 ---
